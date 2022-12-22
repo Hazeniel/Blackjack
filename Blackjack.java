@@ -11,7 +11,7 @@ public class BlackjackAlphaVer{
         while(true){  //infinite loop
             
             String[] playerCard = new String[14];
-            String[] dealerCard = new String[14];
+            String[] dealerCard = new String[14]
             int handSum = 0, houseSum = 0, myAce = 0, dAce = 0, np = 2, nd = 2; 
             //np = number of player's cards, nd = number of dealer's card. By default it is always at least 2
             
